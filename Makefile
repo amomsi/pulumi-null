@@ -1,7 +1,7 @@
-PROJECT_NAME := xyz Package
+PROJECT_NAME := Null Package
 
-PACK             := xyz
-ORG              := pulumi
+PACK             := null
+ORG              := amomsi
 PROJECT          := github.com/${ORG}/pulumi-${PACK}
 NODE_MODULE_NAME := @pulumi/${PACK}
 TF_NAME          := ${PACK}
